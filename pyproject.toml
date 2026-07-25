@@ -12,7 +12,7 @@ gunicorn = "^23.0.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = ">=9.0.3,<10.0.0"
-ruff = "^0.15.20"
+ruff = ">=0.15.20,<0.17.0"
 pip-audit = "^2.10.1"
 
 [tool.pytest.ini_options]
