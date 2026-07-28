@@ -15,4 +15,4 @@ concurrency:
 
 jobs:
   deploy:
-    uses: meyerstk/iac-ci/.github/workflows/reusable-on-push.yml@main
+    uses: meyerstk/iac-ci/.github/workflows/reusable-on-merge.yml@main
