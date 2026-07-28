@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ivt-py"
-version = "0.1.0"
+version = "1.0.0"
 description = "Small whoami-style HTTP header echo service."
 authors = ["August Meyers"]
 package-mode = false
