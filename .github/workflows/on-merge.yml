@@ -16,3 +16,4 @@ concurrency:
 jobs:
   deploy:
     uses: meyerstk/iac-ci/.github/workflows/reusable-on-merge.yml@main
+    secrets: inherit
