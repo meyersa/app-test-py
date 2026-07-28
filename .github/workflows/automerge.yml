@@ -14,4 +14,4 @@ permissions:
 
 jobs:
   automerge:
-    uses: meyersa/iac-ci/.github/workflows/reusable-automerge.yml@main
+    uses: meyerstk/iac-ci/.github/workflows/reusable-automerge.yml@main
